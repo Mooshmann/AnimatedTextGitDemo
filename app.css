@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+h1{
+    font-size: 15rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.letter{
+    transition: color 1000ms;
+}
